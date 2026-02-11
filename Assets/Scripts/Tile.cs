@@ -19,7 +19,6 @@ public class Tile : MonoBehaviour
         Value = value;
         valueText.text = value.ToString();
         
-        // Ödev: Burada değere göre arka plan rengini değiştiren bir switch-case yazabilirsin!
         UpdateVisuals();
     }
 
