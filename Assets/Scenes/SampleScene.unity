@@ -595,8 +595,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4c21c385d8fb1fb4ea1509c1109f9b3f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GridController
-  cellPrefab: {fileID: 2997967718944860129, guid: 757f4c966c4a18c4884b798e2b131090, type: 3}
+  cellPrefab: {fileID: -3194823986364136938, guid: 757f4c966c4a18c4884b798e2b131090, type: 3}
+  tilePrefab: {fileID: 1870188549851972926, guid: 148ef178a824acb48bb1652179898f4d, type: 3}
   boardTransform: {fileID: 1732967947}
+  settings: {fileID: 11400000, guid: cea971482956c0e43863d4fd16688dc7, type: 2}
 --- !u!1 &1902205134
 GameObject:
   m_ObjectHideFlags: 0
